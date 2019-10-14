@@ -1,5 +1,7 @@
 h1 {
     color: salmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
 }
 p {
     color: saddlebrown;
